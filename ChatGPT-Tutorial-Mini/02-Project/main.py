@@ -1,3 +1,5 @@
+pip install langchain
+
 import streamlit as st
 from langchain_core.messages.chat import ChatMessage
 from langchain_openai import ChatOpenAI
