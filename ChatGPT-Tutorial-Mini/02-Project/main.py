@@ -1,5 +1,5 @@
-# pip install langchain
-import langchain_core
+# pip install langchain # 추가코드
+import langchain_core # 추가코드
 import streamlit as st
 from langchain_core.messages.chat import ChatMessage
 from langchain_openai import ChatOpenAI
